@@ -1,6 +1,6 @@
 # Pentago (Go Hackathon Project)
 
-This is a simple implementation of the game **Pentago**, written in Go. It was created as part of the boots.dev hackathon, and it's my **first time working with Go**! Had a blast learning the language and creating this fun game.
+This is a simple implementation of the game **Pentago**, written in Go. It was created as part of the boot.dev hackathon, and it's my **first time working with Go**! Had a blast learning the language and creating this fun game. I also used AI to speed up my ideas a couple times, but the majority of the code was written by me.
 
 ## What is Pentago?
 
@@ -12,6 +12,21 @@ Pentago is a two-player abstract strategy game. Players take turns placing a mar
 2. Clone this repository or download the source files.
 3. Open a terminal in the project folder.
 4. Run the game: `go run main.go` or the binary `./pentago`
+
+```
+morales0  » ./pentago
+Penta-Go!
+
+○ ○ ○ | ● ○ ○
+● ○ ○ | ○ ○ ○
+○ ○ ○ | ○ ○ ○
+-------------
+○ ○ ○ | ○ ○ ○
+○ ○ ● | ○ ○ ○
+○ ○ ○ | ○ ○ ○
+
+Player 1: Choose a quadrant then type direction (hjkl, r for right, e for left)
+```
 
 ##  Ideas and Improvements
 
